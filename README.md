@@ -1,8 +1,8 @@
 # SheInnovates2025
 Forte - Music Social Cataloging Application
 
-#Presentation Link
-https://docs.google.com/presentation/d/1M1NxWjw02jobOTUBRdc5pT4UBrFtfAaI/edit?usp=sharing&ouid=112569853310239152633&rtpof=true&sd=true
+# Presentation Link
+[Slides](https://docs.google.com/presentation/d/1M1NxWjw02jobOTUBRdc5pT4UBrFtfAaI/edit?usp=sharing&ouid=112569853310239152633&rtpof=true&sd=true)
 
 # Inspiration
 Social cataloging applications, specifically GoodReads, LetterBoxd, and Yelp, provide a platform for users to review and catalog specific forms of media, restaurants, locations, etc. However, as a group, we discovered that there is no platform that provides a space for music discourse. With all music apps providing thousands and thousands of songs, there is a disconnect in social media that allows music listeners to discuss, share, and rate their favorite songs.
