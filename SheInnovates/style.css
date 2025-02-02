@@ -1,0 +1,100 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-color: #d2c7ff;
+}
+
+#reviewButton {
+  font-size: 20pt;
+  font-weight: 700;
+}
+
+.card-body {
+  display: flex;
+  justify-content: center;  
+  align-items: center;      
+  flex-direction: column;  
+  background-color: #d2c7ff;
+}
+
+#card-test {
+  background-color: #d2c7ff;
+  border-color: #d2c7ff;
+}
+
+#feelingAlbum {
+  border-color: navy;
+  border-width: 5pt;
+  display: block;         
+  margin: 0 auto;
+}
+
+.nav-link {
+  color: #0a047a
+}
+
+.img-thumbnail {
+  background-color: black;
+}
+.musicRating {
+  float:left;
+  border:none;
+}
+.musicRating:not(:checked) > input {
+  position:absolute;
+  top:-9999px;
+}
+
+.musicRating > input:not(checked) ~ label {
+  float:right;
+  width: 1.2em;
+  font-size:30px;
+  color:lightgray;
+}
+.musicRating > input:checked ~ label {
+  color: navy;
+}
+.musicRating > label:active {
+  position:relative;
+}
+
+.card{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 15px;
+  width: 600px;
+}
+
+#musicNote{
+  color: navy;
+  float:left;
+  width: 1.2em;
+  font-size:30px;
+}
+
+#theProfileImg {
+  border-radius: 50%;
+  border-color: navy;
+  border-width: 5pt;
+  width: 200px;
+  height: 200px;
+}
+
+.card-container {
+  display: flex;
+  gap: 20px; /* Add space between the cards */
+  flex-wrap: wrap; /* Allow cards to wrap if the screen is too narrow */
+}
+
+.card {
+  width: 45%; /* Each card takes up 45% of the available width */
+  box-sizing: border-box; /* Include padding and border in the element's total width/height */
+}
+
+
+
+
